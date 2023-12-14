@@ -2,7 +2,7 @@
 ## Travail à faire
 Vous devez faire une scénario d'entretien social sur google slide et une test de l'application CNMH
 
-## Critèresde validation
+## Critères de validation
 - Scénarios
   - Rédaction de scénario en francais
   - Rédaction de scénario en UML
